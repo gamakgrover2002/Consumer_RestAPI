@@ -11,7 +11,7 @@
 	<groupId>com.infytel</groupId>
 	<artifactId>infytel_demo1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>infytel_demo1</name>
+	<name>demo</name>
 	<description>Spring REST using Spring Boot - Basic Annotations</description>
 
 	<properties>
